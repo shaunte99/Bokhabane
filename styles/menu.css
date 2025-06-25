@@ -78,4 +78,23 @@
   border-radius: 10px;
   margin-bottom: 12px;
   background-color: #1E140C;
+}    
+
+.whatsapp-btn {
+  display: inline-block;
+  background-color: #25D366;
+  color: white;
+  font-weight: bold;
+  padding: 12px 20px;
+  border-radius: 30px;
+  text-decoration: none;
+  margin-top: 20px;
+  transition: background 0.3s ease;
+  font-size: 1rem;
 }
+
+.whatsapp-btn:hover {
+  background-color: #1ebe57;
+}
+
+
